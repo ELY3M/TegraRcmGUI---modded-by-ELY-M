@@ -17,7 +17,7 @@ The RCM exploit only works on "unpatched" units, i.e manufactured before July 20
 ![Png](http://laumonier.org/TegraRcmGUI_v2.5.png)
 
 ## Download
-[Latest release](https://github.com/eliboa/TegraRcmGUI/releases/latest) (Windows)
+[Latest release](https://github.com/ELY3M/TegraRcmGUI---modded-by-ELY-M/releases/latest) (Windows)
 
 ## Important notice
 This UI is **Windows-only**. 
